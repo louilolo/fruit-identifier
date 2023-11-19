@@ -1,4 +1,4 @@
-# Fruit Identifier
+# Fruit Identifier :apple: :banana:
 
 ## Repositório de Projetos de Engenharia II
 
