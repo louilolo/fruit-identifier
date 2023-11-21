@@ -1,0 +1,10 @@
+path: '/content/gdrive/My Drive/Fruit_ID_Proj_Eng_II/data'
+train: train/images
+val: val/images
+
+# Classes
+names:
+    0: rotten_apple
+    1: fresh_apple
+    2: rotten_banana
+    3: fresh_banana
