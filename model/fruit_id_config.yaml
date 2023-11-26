@@ -1,6 +1,6 @@
-path: '/content/gdrive/My Drive/Fruit_ID_Proj_Eng_II/data'
-train: train/images
-val: val/images
+path: "C:\Users\dhomi\OneDrive\Documentos\UFPA - Eng Comp\Proj Eng II\fruit-identifier\model\data"
+train: "train/images"
+val: "val/images"
 
 # Classes
 names:
@@ -8,3 +8,4 @@ names:
     1: fresh_apple
     2: rotten_banana
     3: fresh_banana
+    
