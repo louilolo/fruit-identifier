@@ -1,0 +1,10 @@
+path: '/content/gdrive/My Drive/fruitsIdentifier'
+train: train/images
+val: val/images
+
+# Classes
+names:
+  0: rottenApple
+  1: freshApple
+  2: rottenBanana
+  3: freshBanana
