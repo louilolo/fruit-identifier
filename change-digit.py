@@ -13,8 +13,8 @@ def alterar_primeiro_digito(arquivo, novo_numero):
             f.write(linha)
 
 def main():
-    pasta = "C:Users\\dhomi\\OneDrive\\Área de Trabalho\\test\\obj_train_data"  # Substitua pelo caminho real da pasta
-    novo_numero = 2  # Substitua pelo número desejado
+    pasta = "C:\\Repositorios\\fruit-identifier\\fresh_banana_detector_annotation_task-2023_11_24_13_56_43-yolo 1.1\\obj_train_data"  # Substitua pelo caminho real da pasta
+    novo_numero = 3  # Substitua pelo número desejado
 
     for arquivo in os.listdir(pasta):
         if arquivo.endswith('.txt'):
